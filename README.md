@@ -1,6 +1,6 @@
-# The Odin Project Assignment
+# *The Odin Project* Assignment
 ## Web Development 101
-## [PROJECT: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav)
+## [Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav)
 
 **Reconstruct the Google results page for the query "build this webpage".**
 
